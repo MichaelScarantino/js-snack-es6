@@ -1,0 +1,15 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Body */
+body{
+    text-align: center;
+}
+/* h2 */
+h2{
+    font-size: 30px;
+    padding: 20px 0;
+}
